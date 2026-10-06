@@ -1,13 +1,13 @@
-Salut, moi c'est Mohamed-Cherif Raib 
+# Salut, moi c'est Mohamed-Cherif Raib 👋
 
-SI & Développeur Full-Stack | Profil Hybride (Dev, Infra & Projet)
+### SI & Développeur Full-Stack | Profil Hybride (Dev, Infra & Projet)
 
-Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy) et fort de **26 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie autonomie technique, vision infrastructure et culture projet.
+Diplômé d'une **Licence RNCP 6** (Nexa) et bientot d'un **Mastère Management de Projet** (Foreach Academy), fort de **26 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie autonomie technique, vision infrastructure et culture projet.
 
-- 📍 **Localisation :** Métropole Lilloise / Roubaix (Disponible sur la région)
-- 🎓 **Formation :** Mastère Gestion de Projet (Foreach) | BTS SIO avec modules **Cisco CCNA 1 & 2**
+- 📍 **Localisation :** Métropole Lilloise (Disponible sur la région)
+- 🎓 **Formation :** Mastère Gestion de Projet | Licence RNCP 6 Dev Web | BTS SNIR avec modules **Cisco CCNA 1 & 2**
 - 💼 **Expérience :** 26 mois chez Okaïdi — **200+ tickets gérés en production** sur Azure DevOps
-- 🛠️ **Mode de travail :** Autonomie à 85-90% sur le site de Roubaix (équipe rattachée à Paris), pratique quotidienne de l'Agilité (Scrum, Daily)
+- 🛠️ **Mode de travail :** Autonomie à 85-90% sur le site de la métropole lilloise (équipe rattachée à Paris), pratique quotidienne de l'Agilité (Scrum, Daily)
 
 ---
 
@@ -16,7 +16,7 @@ Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy
 | Domaine | Compétences & Technologies |
 | :--- | :--- |
 | **Gestion de Projet & Agilité** | Cadrage du besoin, AMOA, Azure DevOps, Scrum, animation de Daily, interfaçage Métiers (Data, Relation Client, MCO) |
-| **Développement Full-Stack** | Back-End, Front-End, SQL, Optimisation de performances Back-Office, Intégration Flux Caisse (OIS), MCO / Debugging Prod / RCT |
+| **Développement Full-Stack** | .NET / C#, React, JavaScript, HTML5/CSS, BDD SQL (MySQL, MariaDB, MongoDB), Optimisation Back-Office, Flux Caisse (OIS), MCO / Debugging Prod |
 | **Réseau & Infrastructure** | Cisco CCNA 1 & 2, architectures web, protocoles HTTP/S, reverse proxy (Nginx), conteneurs (Docker) |
 
 ---
@@ -44,5 +44,5 @@ Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy
 ---
 
 📫 **Pour me contacter :**
-- **LinkedIn :** Mohamed-Cherif Raib
+- **LinkedIn :** mohamed-cherif raib
 - **Email :** mohamedcherif.raib@gmail.com
