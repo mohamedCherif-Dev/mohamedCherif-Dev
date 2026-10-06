@@ -44,5 +44,5 @@ Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy
 ---
 
 📫 **Pour me contacter :**
-- **LinkedIn :** 
+- **LinkedIn :** Mohamed-Cherif Raib
 - **Email :** mohamedcherif.raib@gmail.com
