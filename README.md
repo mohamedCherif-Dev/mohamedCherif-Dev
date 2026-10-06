@@ -2,11 +2,11 @@ Salut, moi c'est Mohamed-Cherif Raib
 
 SI & Développeur Full-Stack | Profil Hybride (Dev, Infra & Projet)
 
-Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy) et fort de **16 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie autonomie technique, vision infrastructure et culture projet.
+Diplômé d'un **Mastère en Management & Création de Projet** (Foreach Academy) et fort de **26 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie autonomie technique, vision infrastructure et culture projet.
 
 - 📍 **Localisation :** Métropole Lilloise / Roubaix (Disponible sur la région)
 - 🎓 **Formation :** Mastère Gestion de Projet (Foreach) | BTS SIO avec modules **Cisco CCNA 1 & 2**
-- 💼 **Expérience :** 16 mois chez Okaïdi — **200+ tickets gérés en production** sur Azure DevOps
+- 💼 **Expérience :** 26 mois chez Okaïdi — **200+ tickets gérés en production** sur Azure DevOps
 - 🛠️ **Mode de travail :** Autonomie à 85-90% sur le site de Roubaix (équipe rattachée à Paris), pratique quotidienne de l'Agilité (Scrum, Daily)
 
 ---
