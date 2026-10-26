@@ -1,13 +1,13 @@
 # Salut, moi c'est Mohamed-Cherif Raib 👋
 
-### SI & Développeur Full-Stack | Profil Hybride (Dev, Infra & Projet)
+### Développeur Intégration SI & Full-Stack | Profil Hybride (Dev, Infra & Projet)
 
-Diplômé d'une **Licence RNCP 6** (Nexa) et bientot d'un **Mastère Management de Projet** (Foreach Academy), fort de **26 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie autonomie technique, vision infrastructure et culture projet.
+Diplômé d'un **Mastère Management de Projet** (Foreach Academy), d'une **Licence RNCP 6** (Nexa) et fort de **26 mois d'immersion à la DSI d'Okaïdi (Groupe Idkids)**, j'allie développement logiciel, vision infrastructure réseau et gestion de projet.
 
-- 📍 **Localisation :** Métropole Lilloise (Disponible sur la région)
-- 🎓 **Formation :** Mastère Gestion de Projet | Licence RNCP 6 Dev Web | BTS SNIR avec modules **Cisco CCNA 1 & 2**
-- 💼 **Expérience :** 26 mois chez Okaïdi — **200+ tickets gérés en production** sur Azure DevOps
-- 🛠️ **Mode de travail :** Autonomie à 85-90% sur le site de la métropole lilloise (équipe rattachée à Paris), pratique quotidienne de l'Agilité (Scrum, Daily)
+- 📍 **Localisation :** Métropole Lilloise (disponible immédiatement)
+- 🎓 **Formation :** Mastère Gestion de Projet | Licence RNCP 6 Dev Web | BTS SNIR avec certifications **Cisco CCNA 1 & 2**
+- 💼 **Expérience :** 26 mois chez Okaïdi — **+200 tickets résolus en production** sur Azure DevOps
+- 🛠️ **Mode de travail :** Autonomie sur le site lillois (équipe rattachée à Paris), pratique quotidienne de l'Agilité (Scrum, Daily)
 
 ---
 
@@ -16,8 +16,9 @@ Diplômé d'une **Licence RNCP 6** (Nexa) et bientot d'un **Mastère Management 
 | Domaine | Compétences & Technologies |
 | :--- | :--- |
 | **Gestion de Projet & Agilité** | Cadrage du besoin, AMOA, Azure DevOps, Scrum, animation de Daily, interfaçage Métiers (Data, Relation Client, MCO) |
-| **Développement Full-Stack** | .NET / C#, React, JavaScript, HTML5/CSS, BDD SQL (MySQL, MariaDB, MongoDB), Optimisation Back-Office, Flux Caisse (OIS), MCO / Debugging Prod |
-| **Réseau & Infrastructure** | Cisco CCNA 1 & 2, architectures web, protocoles HTTP/S, reverse proxy (Nginx), conteneurs (Docker) |
+| **Développement & Données** | .NET / C#, React, JavaScript, SQL Server, MySQL, MariaDB, requêtage BDD avancé, optimisation Back-Office, API REST |
+| **Intégration SI & MCO** | Flux Caisse (OIS), sécurisation tunnel de commande (Checkout), debugging de production, analyse de logs applicatifs |
+| **Réseau & Infrastructure** | Cisco CCNA 1 & 2 (TCP/IP, routage, VLAN), conteneurs (Docker), reverse proxy (Nginx), architectures Linux/Windows |
 
 ---
 
@@ -29,7 +30,7 @@ Diplômé d'une **Licence RNCP 6** (Nexa) et bientot d'un **Mastère Management 
 
 #### ⚡ 2. Optimisation des Performances & Back-Office
 - Résolution des lenteurs et requêtage sur les catalogues produits complexes.
-- Nettoyage des traitements en arrière-plan et gestion des logs applicatifs.
+- Nettoyage des traitements en arrière-plan et surveillance des logs applicatifs.
 
 #### 🛒 3. Parcours Client & Checkout (UI/UX)
 - Correctifs et sécurisation sur le tunnel de commande (création de compte, paiement).
@@ -43,6 +44,6 @@ Diplômé d'une **Licence RNCP 6** (Nexa) et bientot d'un **Mastère Management 
 
 ---
 
-📫 **Pour me contacter :**
-- **LinkedIn :** mohamed-cherif raib
-- **Email :** mohamedcherif.raib@gmail.com
+### 📫 Me contacter
+- 💼 [LinkedIn : Mohamed-Cherif RAIB](https://www.linkedin.com/in/mohamed-cherif-raib/)
+- 📧 [mohamedcherif.raib@gmail.com](mailto:mohamedcherif.raib@gmail.com)
